@@ -13,6 +13,7 @@ I write code to answer questions I have, and get hardware moving: Analysis scrip
 | [**potential-flow-panels**](https://github.com/ZenithSeeker/potential-flow-panels) | 2D Hess–Smith panel method that can solve the flow around anything you can draw, validated against exact solutions and XFOIL |
 | [**orbital-mechanics**](https://github.com/ZenithSeeker/orbital-mechanics) | Kepler and universal-variable propagators, J2 perturbations and sun-synchronous design, ground tracks, N-body integration, all tested against direct numerical integration |
 | [**engineering-analysis-tools**](https://github.com/ZenithSeeker/engineering-analysis-tools) | Audio FFT and Strouhal analysis (case study: finding the Helmholtz resonance of a car cabin from a phone recording) and a symbolic Macaulay beam solver |
+| [**c-programs**](https://github.com/ZenithSeeker/c-programs) | A configurable cellular automaton and a combinatorics enumerator in C99, with input validation and tests |
 
 **Tools I use**: Python (NumPy/SciPy/Matplotlib), C/C++ on Teensy and Arduino, ROS2, CAN/CAN FD,
 MATLAB/Simulink, KiCad, SolidWorks, OpenFOAM, Linux
