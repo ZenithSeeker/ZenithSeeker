@@ -1,4 +1,3 @@
-### Hi, I'm Samuel 👋
 ### Hello, I'm Samuel 
 
 Aeronautical (Space) engineering student at the University of Sydney, and electrical/embedded lead
