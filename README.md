@@ -3,7 +3,7 @@
 Aeronautical (Space) engineering student at the University of Sydney, and electrical/embedded lead
 on the [Sydney Interplanetary Rover Initiative](https://github.com/Sydney-Interplanetary-Rover-Initiative).
 
-I write code to answer questions I have, and get hardware moving: Analysis scripts, simulations, and firmware for motor controllers and CAN buses. 
+I write code to answer questions I have, and to get hardware moving: Analysis scripts, simulations, and firmware for motor controllers and CAN buses. 
 
 **Projects**
 
