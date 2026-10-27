@@ -10,7 +10,7 @@ I've just measured.
 
 | | |
 |---|---|
-| [**siri-rover-drivetrain**](https://github.com/ZenithSeeker/siri-rover-drivetrain) | Teensy firmware and bench tooling for an 8-motor, 3-CAN-bus rover drive train, including the debugging log for tracking a shared-bus fault down to one bad connector |
+| [**potential-flow-panels**](https://github.com/ZenithSeeker/potential-flow-panels) | 2D Hess–Smith panel method that can solve the flow around anything you can draw, validated against exact solutions and XFOIL |
 | [**orbital-mechanics**](https://github.com/ZenithSeeker/orbital-mechanics) | Kepler and universal-variable propagators, J2 perturbations and sun-synchronous design, ground tracks, N-body integration, all tested against direct numerical integration |
 | [**engineering-analysis-tools**](https://github.com/ZenithSeeker/engineering-analysis-tools) | Audio FFT and Strouhal analysis (case study: finding the Helmholtz resonance of a car cabin from a phone recording) and a symbolic Macaulay beam solver |
 
